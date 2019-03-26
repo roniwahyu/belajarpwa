@@ -7,7 +7,7 @@ Repository ini digunakan untuk media dan wadah belajar mahasiswa untuk mengenal 
 2. Syaiful Bahri // Sebab setelah hujan selalu ada seseorang yang datang sebagai pelangi, dan memelukmu.
 3.Liliana De Deus teman ikha dan nita
 
-4. Liliana suka makan orang
+4. Liliana suka makan garam
 5.
 6.
 7.
