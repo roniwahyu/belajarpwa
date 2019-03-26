@@ -5,13 +5,13 @@ Repository ini digunakan untuk media dan wadah belajar mahasiswa untuk mengenal 
 Repositori ini digunakan untuk media dan wadah belajar peserta untuk mengenal tentang Aplikasi Web Progresif, Aplikasi Mobile Hibrid, React, React Native, NativeScript (Typescript), Coffee Script
 Anita Karin 161552018150146
 #Mahasiswa Teknik Informatika
-
+=======
 1. Gilby Dhilega Yodiaz // Manusia Biasa
 2. Syaiful Bahri // Sebab setelah hujan selalu ada seseorang yang datang sebagai pelangi, dan memelukmu.
 3. Syahroni Wahyu wdsyhj
 4. mohammad sholahuddin
 5. Andhy Wahyudhi//171552018250709
-6.
+6. febrian
 7.
 8.
 
