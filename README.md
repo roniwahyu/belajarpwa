@@ -2,7 +2,7 @@
 Repository ini digunakan untuk media dan wadah belajar mahasiswa untuk mengenal tentang Progressive Web Application, Hybrid Mobile Application, React, React Native, NativeScript (Typescript),Coffee Script
 
 #Mahasiswa Teknik Informatika
-1.
+1. Sugi Hardianto
 2.
 3.
 4. 
