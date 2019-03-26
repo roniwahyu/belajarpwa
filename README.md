@@ -5,7 +5,7 @@ Repository ini digunakan untuk media dan wadah belajar mahasiswa untuk mengenal 
 
 1. Gilby Dhilega Yodiaz // Manusia Biasa
 2. Syaiful Bahri // Sebab setelah hujan selalu ada seseorang yang datang sebagai pelangi, dan memelukmu.
-3.
+3. Muhhammad shllahuddin H // Just a Littel Kitten
 4. 
 5.
 6.
