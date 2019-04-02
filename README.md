@@ -4,7 +4,7 @@ Repository ini digunakan untuk media dan wadah belajar mahasiswa untuk mengenal 
 Repositori ini digunakan untuk media dan wadah belajar peserta untuk mengenal tentang Aplikasi Web Progresif, Aplikasi Mobile Hibrid, React, React Native, NativeScript (Typescript), Coffee Script
 
 #Mahasiswa Teknik Informatika
-=======
+
 1. Gilby Dhilega Yodiaz // Manusia Biasa
 2. Syaiful Bahri // Sebab setelah hujan selalu ada seseorang yang datang sebagai pelangi, dan memelukmu.
 3. Syahroni Wahyu wdsyhj
@@ -12,11 +12,10 @@ Repositori ini digunakan untuk media dan wadah belajar peserta untuk mengenal te
 5. Andhy Wahyudhi//171552018250709
 6. febrian
 7. Sugi Hardianto NIM 150 749 810 377
-8. Liliana suka makan garam
+8. Liliana suka mahttps://github.com/roniwahyu/belajarpwakan garam
 9. Anita Karin 161552018150146
 10. Muhhammad shllahuddin H // Just a Littel Kitten
 11. Muhammad Fahmi Imanda//161552018150132
 12. Ilham Rumaf
 13. Valen
-
 
