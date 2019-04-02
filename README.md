@@ -15,7 +15,7 @@ Repositori ini digunakan untuk media dan wadah belajar peserta untuk mengenal te
 8. Liliana suka makan garam
 9. Anita Karin 161552018150146
 10. Muhhammad shllahuddin H // Just a Littel Kitten
-11. Fahmi
+11. Muhammad Fahmi Imanda//161552018150132
 12. Ilham Rumaf
 13. Valen
 
