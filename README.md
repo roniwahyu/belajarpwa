@@ -14,7 +14,10 @@ Repositori ini digunakan untuk media dan wadah belajar peserta untuk mengenal te
 7. Sugi Hardianto NIM 150 749 810 377
 8. Liliana suka makan garam
 9. Anita Karin 161552018150146
-10 Muhhammad shllahuddin H // Just a Littel Kitten
+10. Muhhammad shllahuddin H // Just a Littel Kitten
+11. Fahmi
+12. Ilham Rumaf
+13. Valen
 
 
 
